@@ -1,0 +1,2 @@
+1 Running `DB.py` allows you to quickly obtain the DB indices for each dimension. We select the dimension with the smallest DB index for dimension reduction. 
+2 Enter the dimension corresponding to the smallest DB index into `main_umap.py`, then run the program to obtain the feature encoding file after UMAP dimension reduction.
